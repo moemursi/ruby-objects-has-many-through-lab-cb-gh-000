@@ -13,7 +13,7 @@ We have a `Song`, `Artist` and `Genre` class. Songs belong to an artist and belo
 
 We also have an `Appointment`, `Doctor` and `Patient` class. Appointments belong to a patient and to a doctor. A doctor has many appointments and a patient has many appointments. A doctor has many patients through its appointments and a patient has many doctor's through its appointments.
 
-## Instructions
+## Instructfions
 
 Start with the `Artist`/`Song`/`Genre` domain.
 
